@@ -1,0 +1,21 @@
+theme = "hugo-theme-slim"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Slim Theme Demo"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    
+[Params]
+  math = false
+  summary = true
+  disqusShortname = ""
+  
+  # social
+  GithubID = "homerhanumat"
+  TwitterID = "homerhanumat"
+  LinkedInID = "homerwhite"
+  
+[[menu.main]]
+  name = "About"
+  URL = "/about/"
