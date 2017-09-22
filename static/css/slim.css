@@ -334,7 +334,7 @@ button,
     right: -23px; }
   .post-title a:hover:before, .post-title a:hover:after {
     border-top-color: #ccc;
-    border-right-color: #ccc; }
+    border-right-color: #ccc;}
   .post-title a:hover:before {
     left: -3px; }
   .post-title a:hover:after {
