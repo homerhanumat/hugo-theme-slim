@@ -1,7 +1,7 @@
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 relativeurls = true
 theme = "hugo-theme-slim"
-baseURL = "http://example.org/"
+baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Slim Theme Demo"
 
@@ -14,9 +14,9 @@ title = "Slim Theme Demo"
   disqusShortname = ""
   
   # social
-  GithubID = "homerhanumat"
-  TwitterID = "homerhanumat"
-  LinkedInID = "homerwhite"
+  GithubID = ""
+  TwitterID = ""
+  LinkedInID = ""
   
 [[menu.main]]
   name = "About"
